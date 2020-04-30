@@ -5,7 +5,7 @@ The user arrives at the site and is presented with a button to provide a name an
 The user is then presented with the name and photo of the person with the closest matching answers (based on the server's records).
 
 ## Dependencies
-LIRI requires the following node modules:
+FriendFinder requires the following node modules:
 1. express
 
 Please see the package.json file for more information.
